@@ -23,7 +23,8 @@ This project transforms your ordinary electric fan into a smart, temperature-con
 
 ## 📺 Watch the Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kyz9NSA0oow" frameborder="0" allowfullscreen></iframe>
+[![Watch the Tutorial](https://img.youtube.com/vi/kyz9NSA0oow/0.jpg)](https://www.youtube.com/watch?v=kyz9NSA0oow)
+
 
 ## 📝 License
 
