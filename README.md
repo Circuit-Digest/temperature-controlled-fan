@@ -3,9 +3,9 @@
 ![Project Image](https://example.com/project-image.jpg)
 
 ---
-## 💡 Usage
+## 💡 Full Tutorial on CircuitDigest
 
-- [**Detailed Usage Instructions**](https://www.your-website.com)
+- [**Temperature Controlled Fan Using Arduino**](https://www.your-website.com)
 
 ## 📜 Summary
 
@@ -23,7 +23,7 @@ This project transforms your ordinary electric fan into a smart, temperature-con
 
 ## 📺 Watch the Tutorial
 
-- [**Temperature Controlled Fan Using Arduino**](https://youtu.be/kyz9NSA0oow)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kyz9NSA0oow" frameborder="0" allowfullscreen></iframe>
 
 ## 📝 License
 
