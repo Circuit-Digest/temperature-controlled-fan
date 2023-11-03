@@ -1,6 +1,6 @@
 # Temperature Controlled Fan with Arduino
-
-![Project Image](https://example.com/project-image.jpg)
+![temperate controlled fan using arduino ](https://github.com/Circuit-Digest/temperature-controlled-fan/assets/65025308/920d3eb2-8870-4601-8189-d2466ff5950c)
+([https://example.com/project-image.jpg](https://circuitdigest.com/microcontroller-projects/temperature-controlled-fan-with-lm35-and-arduino))
 
 ---
 ## 💡 Full Tutorial on CircuitDigest
